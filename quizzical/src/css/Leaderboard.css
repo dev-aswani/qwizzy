@@ -1,0 +1,6 @@
+.leaderboard-data {
+	display: grid;
+	width: max-content;
+	margin: auto;
+	margin-top: 150px;
+}

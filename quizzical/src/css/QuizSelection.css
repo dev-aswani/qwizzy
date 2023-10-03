@@ -1,0 +1,9 @@
+.quiz-selection-form {
+	width: 800px;
+	margin: auto;
+	margin-top: 200px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	gap: 20px;
+}

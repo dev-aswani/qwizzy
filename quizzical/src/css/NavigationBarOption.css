@@ -1,0 +1,29 @@
+.navigationBarOption {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	color: white;
+	cursor: pointer;
+	margin-right: 20px;
+	font-family: Inter !important;
+}
+.navigationBarOption:hover {
+	/* color: #ffd700; */
+	/* color: #ff1493; */
+	/* color: #06fff3; */
+	color: #ffff05;
+}
+.navigationBarOptionTitle {
+	font-size: 12px;
+	font-weight: 400;
+	margin: 0px !important;
+}
+.navigationBarOptionIcon {
+	object-fit: contain;
+	height: 25px !important;
+	width: 25px !important;
+}
+.toolbar:nth-child(2) {
+	margin-left: auto !important;
+	border: 1px solid black;
+}

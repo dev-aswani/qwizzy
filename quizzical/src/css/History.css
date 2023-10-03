@@ -1,0 +1,10 @@
+.game-history-data {
+	display: grid;
+	margin: auto;
+	width: max-content;
+	margin-top: 150px;
+}
+.loading-animation {
+	margin: auto;
+	margin-top: 300px;
+}

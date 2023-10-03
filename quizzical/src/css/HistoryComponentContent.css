@@ -1,0 +1,16 @@
+.history-component-content {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+.history-component-content > * {
+	color: #293264;
+	font-family: Inter;
+}
+.history-component-content-title {
+	font-weight: 700;
+	font-size: 12px;
+}
+.history-component-content-value {
+	font-size: 14px;
+}

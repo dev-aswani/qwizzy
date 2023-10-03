@@ -1,0 +1,17 @@
+.history-component {
+	gap: 30px;
+	background-color: white;
+	width: 100%;
+	margin: auto;
+	margin-bottom: 20px;
+	border-radius: 12px;
+	padding: 20px;
+	border-bottom: 0.1px solid lightgray;
+	display: grid;
+	grid-template-columns: 170px 55px 35px 145px;
+	align-items: center;
+}
+.history-component:hover {
+	background-color: rgba(211, 211, 211, 0.4);
+	cursor: pointer;
+}

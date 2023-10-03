@@ -1,0 +1,13 @@
+.leaderboard-component {
+	gap: 30px;
+	background-color: white;
+	margin-bottom: 20px;
+	border-radius: 12px;
+	padding: 20px;
+	border-bottom: 0.1px solid lightgray;
+	display: grid;
+	grid-template-columns: 30px 220px 50px 35px;
+}
+.leaderboard-component:hover {
+	background-color: rgba(211, 211, 211, 0.4);
+}

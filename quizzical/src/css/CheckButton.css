@@ -1,0 +1,15 @@
+#submit-button {
+	background: #4d5b9e !important;
+	font-family: karla !important;
+	line-height: 12px !important;
+	color: white !important;
+	transition: all 0.3s ease !important;
+	display: block !important;
+	margin: auto !important;
+	height: 30px !important;
+}
+#submit-button:hover {
+	box-shadow: rgba(31, 35, 65, 0.37) 0px 20px 30px -11px !important;
+	transform: translate(0px, -5px) !important;
+	background-color: #4d5b9e !important ;
+}

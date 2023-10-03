@@ -1,0 +1,28 @@
+[debug] [2023-08-03T13:47:55.708Z] ----------------------------------------------------------------------
+[debug] [2023-08-03T13:47:55.711Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Lenovo\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-08-03T13:47:55.711Z] CLI Version:   12.4.4
+[debug] [2023-08-03T13:47:55.712Z] Platform:      win32
+[debug] [2023-08-03T13:47:55.712Z] Node Version:  v18.15.0
+[debug] [2023-08-03T13:47:55.713Z] Time:          Thu Aug 03 2023 17:47:55 GMT+0400 (Gulf Standard Time)
+[debug] [2023-08-03T13:47:55.713Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-08-03T13:47:55.724Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-08-03T13:47:55.724Z] > authorizing via signed-in user (dev.aswani1505@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Lenovo\Desktop\quizzical\quizzical
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 

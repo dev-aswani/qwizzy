@@ -1,0 +1,16 @@
+.leaderboard-component-content {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+.leaderboard-component-content > * {
+	color: #293264;
+	font-family: Inter;
+}
+.leaderboard-component-content-title {
+	font-weight: 700;
+	font-size: 12px;
+}
+.leaderboard-component-content-value {
+	font-size: 14px;
+}

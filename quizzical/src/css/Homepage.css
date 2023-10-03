@@ -1,0 +1,66 @@
+.homepage {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	height: 100vh;
+	width: 100vw;
+}
+.homepage-signup-button:hover {
+	color: #f5f7fb;
+	background-color: #4d5b9e;
+}
+.homepage-main {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}
+.homepage-main-title {
+	color: #293264;
+	margin-bottom: 25px;
+	font-family: Karla;
+	font-size: 31px;
+	font-weight: 700;
+	line-height: 37px;
+	letter-spacing: 0em;
+}
+.homepage-main-description {
+	width: 400px;
+	margin-bottom: 35px;
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 19px;
+	letter-spacing: 0em;
+	color: #293264;
+}
+.homepage-main-signup-button,
+.homepage-main-login-button {
+	width: 193px;
+	height: 52px;
+	border-radius: 15px;
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 19px;
+	letter-spacing: 0em;
+	color: #f5f7fb;
+	background-color: #4d5b9e;
+	border: none;
+	cursor: pointer;
+	transition: all 0.3s ease-in-out;
+}
+.homepage-buttons {
+	display: flex;
+	gap: 10px;
+}
+.homepage-main-signup-button:hover,
+.homepage-main-login-button:hover {
+	background-color: #f5f7fb;
+	color: #4d5b9e;
+	border: 1px solid #4d5b9e;
+}
